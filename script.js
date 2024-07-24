@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
     invalidCityMessage.style.display = 'none';
     document.querySelector('.search').appendChild(invalidCityMessage);
 
-    const apiKey = 'dbfb4387fd9746a5b28afc31b7e1f761'; // Replace with your own API key
+    const apiKey = 'dbfb4387fd9746a5b28afc31b7e1f761'; 
 
     weatherSection.style.display = 'none';
 
